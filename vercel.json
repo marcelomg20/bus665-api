@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "api/bus.js": {
+      "maxDuration": 10
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/bus/:linha",
+      "destination": "/api/bus?linha=:linha"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "bus665-api-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Micro-proxy para linha 665 Planalto - libera CORS da EPTC/PoaTransporte"
+}
